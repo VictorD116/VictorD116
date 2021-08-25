@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Victor Dias 👋
 
 - 💻 Hoje estudo Análise e desenvolvimento de Sistemas
-- 📊 Foco em Análise de dados / Ciência de dados
 - 🎓 Sou formado em Engenharia Civil
 
 <div>
